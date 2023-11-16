@@ -1,0 +1,22 @@
+
+button{
+  
+size:10px ;
+background-color: rgb(61, 204, 166);
+color:black;
+border-radius:50% ;
+font-size:30px;
+border-spacing:5px;
+text-align: center;
+justify-content: center;
+padding: 25px; 
+margin: left 70px;
+}
+
+.p{
+  background-color:orange;
+}
+
+.TEXT{
+  font-size: larger;
+}
